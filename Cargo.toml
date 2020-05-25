@@ -1,0 +1,11 @@
+[package]
+name = "svgity"
+version = "0.1.0"
+authors = ["Kevin Letchford <kextype@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2"
+regex = "1"
